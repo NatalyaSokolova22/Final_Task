@@ -6,7 +6,7 @@
 
 bin/
 obj/
-*.config
+.config/
 
 
 # User-specific files
